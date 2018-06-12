@@ -8,3 +8,5 @@ You can create one for any molecule you like as long as you specify the followin
 * Outofplanes: OUTOFPLANE atom1 atom2 atom3 atom4 barrier.
 
 For more detail on what these parameters are, please see the param.py file, or the original paper reference (https://pubs.acs.org/doi/abs/10.1021/ja00124a002).
+
+-TMP CHEM
